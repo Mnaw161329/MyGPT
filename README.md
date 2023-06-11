@@ -1,7 +1,8 @@
 # MyGPT
 
-Requied 
+###How to use?
 
+####To install
 ```linux
 $pip install openai 
 ```
