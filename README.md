@@ -2,8 +2,11 @@
 
 Requied 
 
-```python
+```linux
 $pip install openai 
-$pip install googletrans
+```
 
+```python
+$pip install googletrans
+```
 
