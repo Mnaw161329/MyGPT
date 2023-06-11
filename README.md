@@ -3,6 +3,6 @@
 Requied 
 
 
-$pip install openai 
+'''$pip install openai 
 
-$pip install googletrans
+'''$pip install googletrans
